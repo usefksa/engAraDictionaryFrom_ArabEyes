@@ -14,6 +14,14 @@ English - Arabic dictionary MySQL database based on WordList from ArabEyes Team
 for more info @usef_ksa on Twitter
 
 
+المصدر
+
+
+https://sourceforge.net/projects/arabic-wordlist/
+
+
+
+
 طريقة الاتسخدام
 
 
