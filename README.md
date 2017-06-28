@@ -22,7 +22,7 @@ https://sourceforge.net/projects/arabic-wordlist/
 
 
 
-طريقة الاتسخدام
+طريقة الاستخدام
 
 
 
