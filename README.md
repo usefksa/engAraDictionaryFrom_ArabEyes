@@ -7,6 +7,25 @@ English - Arabic dictionary MySQL database based on WordList from ArabEyes Team
 جزيل الشكر والتقدر لمجموعة عيون عربية وخصوصا
 
 احمد الرشيدان
+
 اسامة خياط
 
-..
+
+for more info @usef_ksa on Twitter
+
+
+طريقة الاتسخدام
+
+
+
+mysql -u root -p
+
+CREATE DATABASE engAraDictionary;
+
+use engAraDictionary;
+
+source /path/engAraDictionary.sql
+
+show tables;
+
+select * from engAraDictionary limit 3;
